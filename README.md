@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou @deia1978
 - 👀 I’m interested in aprender um pouco mais sobre tudo isso
 - 🌱 I’m currently learning Ciência de Dados na PUC Minas
-- 💞️ Gostaria de dicas oara iniciantes.
+- 💞️ Gostaria de dicas para iniciantes.
 - 📫 How to reach me : deiapolazzi@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
